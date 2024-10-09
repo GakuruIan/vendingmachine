@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: UNLICENSED
-pragma solidity  ^0.8.27;
+pragma solidity  >=0.4.22 <0.9.0;
 
 contract VendingMachine3 {
     // payable keyword allows the address to reciever Ether
